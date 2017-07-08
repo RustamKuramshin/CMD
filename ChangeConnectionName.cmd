@@ -1,3 +1,3 @@
 @echo off
 chcp 1251 > nul
-netsh interface set interface name = "Ïîäêëþ÷åíèå ïî ëîêàëüíîé ñåòè" newname = "LAN" > nul
+netsh interface set interface name = "ÐŸÐ¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ðµ Ð¿Ð¾ Ð»Ð¾ÐºÐ°Ð»ÑŒÐ½Ð¾Ð¹ ÑÐµÑ‚Ð¸" newname = "LAN" > nul
