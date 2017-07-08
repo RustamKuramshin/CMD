@@ -1,12 +1,10 @@
 @echo off
 
-:: Определяем букву диска, с которого загружается Windows PE
 FOR %%d IN (c d e f g h i j k l m n o p q r s t u v w x y z) DO IF EXIST %%d:\FLAG.CMD SET CDROM=%%d:
 
-:: Определяем состояние диска, на который будет развертываться WIM-образ
 IF EXIST C:\ set cdisk=C:
 
-:: Меню
+:: ГЊГҐГ­Гѕ
 :m0
 cls
 echo.
