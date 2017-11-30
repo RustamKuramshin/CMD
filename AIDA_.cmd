@@ -1,0 +1,1 @@
+AIDA64\aida64.exe /R /DATABASE /AUDIT /SAFE
