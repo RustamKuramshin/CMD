@@ -1,0 +1,1 @@
+wusa /uninstall /kb:4041681
